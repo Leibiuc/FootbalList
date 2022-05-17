@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_USER" : "admin_fotbalist",
+        "MONGO_PASSWORD" : "PrivateLabel69"
+    }
+}
